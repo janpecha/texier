@@ -1,0 +1,3 @@
+Texier can be used as an alternative to tools like [RedCloth](http://whytheluckystiff.net/ruby/redcloth/), [BlueCloth](http://www.deveiate.org/projects/BlueCloth), etc. in web applications written in Ruby on Rails (for example).
+
+Texier does the same as Texy!, so more info [there](http://texy.info)...
